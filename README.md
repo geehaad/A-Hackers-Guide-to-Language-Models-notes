@@ -30,7 +30,11 @@
 <p>Models break input into tokens (whole words or sub-word units) to handle various text types effectively.</p>
 
 <h2>Training Process</h2>
+
 <h3>ULMFit 3-Step Approach:</h3>
+
+![image](https://github.com/user-attachments/assets/82613259-2e59-4d3e-ae0b-e8c30b4694c6)
+
 <ol>
     <li><strong>Pre-training</strong>: Models are trained on large corpora (e.g., Wikipedia) to build foundational knowledge.</li>
     <li><strong>Fine-tuning</strong>: Models are trained on task-specific examples to handle particular tasks like Q&A.</li>
