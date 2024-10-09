@@ -8,7 +8,7 @@
 <body>
 
 <h1>A Hackers' Guide to Language Models 🧑‍💻</h1>
-<h2>Notes for the video: <em> <a href="https://github.com/fastai/lm-hackers](https://www.youtube.com/watch?v=jkrNMKz9pWU">A Hackers' Guide to Language Models</a>a</em></h2>
+<h2>Notes for the video: <em> <a href="https://github.com/fastai/lm-hackers](https://www.youtube.com/watch?v=jkrNMKz9pWU"</a> Hackers' Guide to Language Models</a>a</em></h2>
 <h2>You can find notebooks used in the video from here: <a href="https://github.com/fastai/lm-hackers">code 📚</a></h2>
 
 <h2>Key Insights</h2>
